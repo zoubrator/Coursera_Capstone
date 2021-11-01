@@ -1,2 +1,2 @@
 # Coursera_Capstone
-For Coursera capstone project
+This project is final work from IBM Data Science Specialization from coursera.com
